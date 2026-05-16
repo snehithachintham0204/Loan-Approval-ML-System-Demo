@@ -316,8 +316,3 @@ FinTrust AI demonstrates how Artificial Intelligence can modernize the tradition
 **Snehitha Chintham**  
 Artificial Intelligence Student  
 Anurag University
-
-
-
-### 8️⃣ Model Saving
-The trained model was saved using Joblib as:
